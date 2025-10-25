@@ -1,0 +1,15 @@
+com\itemchestshop\utils\DataManager$1.class
+com\itemchestshop\utils\ItemParser.class
+com\itemchestshop\commands\ItemChestShopCommand.class
+com\itemchestshop\managers\ChestShopManager.class
+com\itemchestshop\utils\DataManager$LocationAdapter.class
+com\itemchestshop\utils\DataManager.class
+com\itemchestshop\listeners\ChestShopListener.class
+com\itemchestshop\ItemChestShopPlugin.class
+com\itemchestshop\utils\TransactionManager.class
+com\itemchestshop\utils\DataManager$SerializableChestShop.class
+com\itemchestshop\utils\ConfigManager.class
+com\itemchestshop\listeners\SignListener.class
+com\itemchestshop\utils\TransactionManager$TransactionResult.class
+com\itemchestshop\utils\DataManager$ItemStackAdapter.class
+com\itemchestshop\models\ChestShop.class

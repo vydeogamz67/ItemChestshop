@@ -1,0 +1,27 @@
+# ItemChestShop Configuration
+
+# Debug mode - enables additional logging
+debug: false
+
+# Maximum number of shops a player can create (-1 for unlimited)
+max-shops-per-player: 10
+
+# Shop sign format identifier
+shop-sign-format: "[SHOP]"
+
+# Messages
+messages:
+  shop-created: "&aChest shop created successfully!"
+  shop-removed: "&cChest shop removed!"
+  invalid-format: "&cInvalid shop format! Use: [Username] [Want: Amount Item] [Give: Amount Item]"
+  no-permission-create: "&cYou don't have permission to create shops!"
+  no-permission-use: "&cYou don't have permission to use shops!"
+  no-chest-found: "&cNo chest found below the sign!"
+  insufficient-items: "&cYou don't have enough items to make this trade!"
+  insufficient-stock: "&cThe shop doesn't have enough items in stock!"
+  transaction-success: "&aTransaction successful!"
+  shop-owner-notification: "&aYour shop made a sale! Traded {give} for {want}"
+  cannot-buy-own-shop: "&cYou cannot buy from your own shop!"
+  invalid-item: "&cInvalid item: {item}"
+  shop-full: "&cThe shop chest is full!"
+  reload-success: "&aConfiguration reloaded successfully!"
